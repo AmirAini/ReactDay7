@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactDay7/static/css/main.9cb7c1fe.chunk.css",
+    "main.js": "/ReactDay7/static/js/main.12d4d439.chunk.js",
+    "main.js.map": "/ReactDay7/static/js/main.12d4d439.chunk.js.map",
+    "runtime-main.js": "/ReactDay7/static/js/runtime-main.36fb66d1.js",
+    "runtime-main.js.map": "/ReactDay7/static/js/runtime-main.36fb66d1.js.map",
+    "static/js/2.f1c37e4c.chunk.js": "/ReactDay7/static/js/2.f1c37e4c.chunk.js",
+    "static/js/2.f1c37e4c.chunk.js.map": "/ReactDay7/static/js/2.f1c37e4c.chunk.js.map",
+    "static/js/3.c92f2bd8.chunk.js": "/ReactDay7/static/js/3.c92f2bd8.chunk.js",
+    "static/js/3.c92f2bd8.chunk.js.map": "/ReactDay7/static/js/3.c92f2bd8.chunk.js.map",
+    "index.html": "/ReactDay7/index.html",
+    "static/css/main.9cb7c1fe.chunk.css.map": "/ReactDay7/static/css/main.9cb7c1fe.chunk.css.map",
+    "static/js/2.f1c37e4c.chunk.js.LICENSE.txt": "/ReactDay7/static/js/2.f1c37e4c.chunk.js.LICENSE.txt",
+    "static/js/main.12d4d439.chunk.js.LICENSE.txt": "/ReactDay7/static/js/main.12d4d439.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36fb66d1.js",
+    "static/js/2.f1c37e4c.chunk.js",
+    "static/css/main.9cb7c1fe.chunk.css",
+    "static/js/main.12d4d439.chunk.js"
+  ]
+}
